@@ -6,7 +6,7 @@ Created on 13 Apr 2018
 @author: Bruno Beloff (bruno.beloff@southcoastscience.com)
 """
 
-from scs_core.csv.csv_log import CSVLog
+from scs_core.scs-csv.csv_log import CSVLog
 
 from scs_core.data.localized_datetime import LocalizedDatetime
 

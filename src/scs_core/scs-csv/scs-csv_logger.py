@@ -9,7 +9,7 @@ import json
 
 from collections import OrderedDict
 
-from scs_core.csv.csv_dict import CSVDict
+from scs_core.scs-csv.csv_dict import CSVDict
 
 from scs_core.data.localized_datetime import LocalizedDatetime
 

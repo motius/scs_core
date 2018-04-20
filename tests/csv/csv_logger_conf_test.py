@@ -6,7 +6,7 @@ Created on 13 Apr 2018
 @author: Bruno Beloff (bruno.beloff@southcoastscience.com)
 """
 
-from scs_core.csv.csv_logger_conf import CSVLoggerConf
+from scs_core.scs-csv.csv_logger_conf import CSVLoggerConf
 from scs_core.data.json import JSONify
 
 from scs_host.sys.host import Host
